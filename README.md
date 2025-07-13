@@ -20,14 +20,16 @@ This is a simple and clean **Fake News Detection** app built using **Python**, *
 ## 📁 Project Structure
 
 Fake-News-Detection/
-├── Deployment.py # Streamlit app (English-only)
-├── fake-news-detection.ipynb # Jupyter notebook for training models
+├── Deployment.py
+├── fake-news-detection.ipynb
+├── news.csv
+├── manual_testing.csv
 ├── models/
-│ ├── vectorizer.pkl # TF-IDF vectorizer
-│ ├── LR_model.joblib # Logistic Regression
-│ ├── DT_model.joblib # Decision Tree
-│ ├── RFC_model.joblib # Random Forest
-│ └── GBC_model.joblib # Gradient Boosting
+│ ├── vectorizer.pkl
+│ ├── LR_model.joblib
+│ ├── DT_model.joblib
+│ ├── RFC_model.joblib
+│ └── GBC_model.joblib
 
 ---
 
