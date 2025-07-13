@@ -29,10 +29,6 @@ Fake-News-Detection/
 │ ├── RFC_model.joblib # Random Forest
 │ └── GBC_model.joblib # Gradient Boosting
 
-yaml
-نسخ
-تحرير
-
 ---
 
 ## 📊 Dataset
@@ -108,7 +104,7 @@ I’m excited to share my new project — a **Fake News Detection Web App** buil
 - Fully web-based with no installation needed beyond Python and Streamlit
 
 🧠 Dataset used for training:  
-[Download news.csv](https://drive.google.com/file/d/1xb4E-ougFyREgbD3cyGJEPenALIHmY2b/view?usp=drive_link)
+🔗 [Download news.csv](https://drive.google.com/file/d/1xb4E-ougFyREgbD3cyGJEPenALIHmY2b/view?usp=drive_link)
 
 👉 Check it out on GitHub:  
 🔗 https://github.com/MoustafaAliAshour/Fake-News
