@@ -20,15 +20,25 @@ This is a simple and clean **Fake News Detection** app built using **Python**, *
 ## 📁 Project Structure
 
 Fake-News-Detection/
+
 ├── Deployment.py
+
 ├── fake-news-detection.ipynb
+
 ├── news.csv
+
 ├── manual_testing.csv
+
 ├── models/
+
 │ ├── vectorizer.pkl
+
 │ ├── LR_model.joblib
+
 │ ├── DT_model.joblib
+
 │ ├── RFC_model.joblib
+
 │ └── GBC_model.joblib
 
 ---
