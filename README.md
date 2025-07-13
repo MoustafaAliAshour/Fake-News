@@ -43,6 +43,9 @@ Fake-News-Detection/
 
 ---
 
+## Deployment [Streamlit](https://fake-news-9mup3iedw3fcywu53xij7w.streamlit.app/)
+---
+
 ## 📊 Dataset
 
 The dataset used for training is available here:  
